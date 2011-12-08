@@ -13,3 +13,7 @@ Installation
 
 Start the iSync.app program. You should now be able to add and syncronize your
 device on a Bluetooth connection.
+
+Warning
+-------
+This plugin is provided free and as-is, without any warranty of any kind. Use it at your own risk.
